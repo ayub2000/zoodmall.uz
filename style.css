@@ -1,0 +1,56 @@
+header{
+    width: 100%;
+    height: 85vh;
+
+}
+.div1{
+    width: 100%;
+    height: 5vh;
+    background-color: #ffd200;
+    display: inline-flex;
+     align-items: center;
+     justify-content: center;
+}
+nav{
+    width: 100%;
+    height: 10vh;
+
+
+}
+.d111{
+    width: 85%;
+    
+}
+.div2{
+    width: 85%;
+    height: 10vh;
+
+}
+.div3{
+    width: 100%;
+    height: 60vh;
+    background-color: aquamarine;
+}
+.div33{
+    width: 100%;
+    height: 60vh;
+}
+.div11{
+    width: 40%;
+    height: 4vh;
+
+}
+.div12{
+    width: 50%;
+    height: 4vh;
+ 
+}
+.div12>a:hover{
+    text-decoration: underline !important;
+}
+.divnav{
+    width: 85%;
+    height: 9vh;
+    background-color: aliceblue;
+
+}
